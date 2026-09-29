@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="bn" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Privacy Policy - DoorBee (গোপনীয়তা নীতি)</title>
+  
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Google Fonts & FontAwesome -->
+  <link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+
+  <style>
+    body { font-family: 'Hind Siliguri', 'Plus Jakarta Sans', sans-serif; }
+    .font-en { font-family: 'Plus Jakarta Sans', sans-serif; }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-800 antialiased min-h-screen">
+
+  <!-- Header Banner -->
+  <header class="bg-slate-900 text-white border-b border-amber-500/20 sticky top-0 z-30 shadow-md">
+    <div class="max-w-4xl mx-auto px-4 py-3.5 flex items-center justify-between">
+      <div class="flex items-center gap-2.5">
+        <div class="w-10 h-10 rounded-2xl bg-amber-500 flex items-center justify-center font-black text-slate-950 text-lg shadow-sm">
+          🐝
+        </div>
+        <div>
+          <h1 class="text-base font-black tracking-tight text-white leading-tight">DoorBee</h1>
+          <p class="text-[10px] text-amber-400 font-bold uppercase tracking-wider">Just Order. We Deliver.</p>
+        </div>
+      </div>
+
+      <!-- Quick Language Jump Buttons -->
+      <div class="flex items-center gap-1.5 text-xs font-bold">
+        <a href="#bangla" class="px-2.5 py-1 rounded-xl bg-amber-500 text-slate-950 shadow-xs hover:bg-amber-400 transition">
+          বাংলা
+        </a>
+        <a href="#english" class="px-2.5 py-1 rounded-xl bg-slate-800 text-slate-300 border border-slate-700 hover:text-white transition">
+          English
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Container -->
+  <main class="max-w-4xl mx-auto px-4 py-6 space-y-10">
+
+    <!-- ========================================================================= -->
+    <!-- 🇧🇩 ১. বাংলা সংস্করণ (BANGLA VERSION) -->
+    <!-- ========================================================================= -->
+    <section id="bangla" class="space-y-6 pt-2">
+
+      <!-- Hero Card (Bangla) -->
+      <div class="bg-gradient-to-r from-amber-500/10 via-amber-50 to-orange-50 border border-amber-200 rounded-3xl p-5 sm:p-6 shadow-xs space-y-2">
+        <div class="flex items-center justify-between">
+          <span class="text-[10px] font-black uppercase tracking-wider bg-amber-500 text-slate-950 px-2.5 py-0.5 rounded-md">
+            অফিশিয়াল গোপনীয়তা নীতি
+          </span>
+          <span class="text-xs font-bold text-slate-500">বাংলা সংস্করণ</span>
+        </div>
+        <h2 class="text-xl sm:text-2xl font-black text-slate-900 tracking-tight">ডোরবী (DoorBee) গোপনীয়তা নীতি</h2>
+        <p class="text-xs text-slate-500">
+          <b>অ্যাপ প্যাকেজ:</b> <code class="bg-white px-2 py-0.5 rounded text-amber-700 font-mono font-bold">com.doorbee.bd</code> • <b>কার্যকর তারিখ:</b> সেপ্টেম্বর ২০২৬
+        </p>
+        <p class="text-xs text-slate-600 leading-relaxed pt-1">
+          ডোরবী (DoorBee) একটি অল-ইন-ওয়ান মাল্টি-সার্ভিস ডেলিভারি সুপার-অ্যাপ (খাবার, মুদি বাজার, ফার্মেসি ঔষধ, কাঁচা বাজার ও এক্সপ্রেস পার্সেল সার্ভিস)। আমাদের মোবাইল অ্যাপ্লিকেশনটি ব্যবহারের সময় আপনার ব্যক্তিগত তথ্যাবলীর নিরাপত্তা ও গোপনীয়তা রক্ষার অঙ্গীকার নিয়ে এই নীতিমালা প্রণয়ন করা হয়েছে।
+        </p>
+      </div>
+
+      <!-- Section 1: তথ্য সংগ্রহ ও অনুমতি (Bangla) -->
+      <div class="bg-white rounded-3xl p-5 sm:p-6 border border-slate-200/80 shadow-xs space-y-4">
+        <div class="flex items-center gap-2.5 border-b border-slate-100 pb-3">
+          <i class="fa-solid fa-shield-halved text-amber-500 text-lg"></i>
+          <h3 class="text-base font-black text-slate-900">১. আমরা কী কী তথ্য সংগ্রহ করি ও কী কী অনুমতি প্রয়োজন হয়?</h3>
+        </div>
+        <p class="text-xs text-slate-600 leading-relaxed">
+          গ্রাহকদের দ্রুততম সময়ে সঠিক সেবা প্রদান এবং নিরাপত্তা নিশ্চিত করতে আমরা নিচের তথ্য ও ডিভাইস অনুমতিগুলো গ্রহণ করি:
+        </p>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
+          <!-- জিপিএস লোকেশন -->
+          <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-2xl space-y-1.5">
+            <div class="flex items-center gap-2 text-slate-900 font-bold">
+              <i class="fa-solid fa-location-dot text-amber-600 text-sm"></i>
+              <span>লাইভ জিপিএস লোকেশন (কাস্টমার ও রাইডার)</span>
+            </div>
+            <p class="text-[11px] text-slate-600 leading-relaxed">
+              • <b>গ্রাহকদের জন্য:</b> দোকান থেকে বাসার সঠিক দূরত্ব পরিমাপ, নিখুঁত ডেলিভারি চার্জ নির্ধারণ এবং কাছের দোকানগুলো দেখানোর জন্য অ্যাপ চালু থাকা অবস্থায় জিপিএস ব্যবহার করা হয়।<br>
+              • <b>ডেলিভারি রাইডারদের জন্য:</b> রাইডার যখন রাস্তায় সক্রিয় থাকে, তখন স্ক্রিন বন্ধ বা মোবাইল পকেটে থাকলেও <b>ব্যাকগ্রাউন্ডে (Background Location)</b> লোকেশন নেওয়া হয়, যাতে গ্রাহক ও অ্যাডমিন মানচিত্রে পার্সেল লাইভ ট্র্যাক করতে পারেন।
+            </p>
+          </div>
+
+          <!-- ক্যামেরা ও গ্যালারি -->
+          <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-2xl space-y-1.5">
+            <div class="flex items-center gap-2 text-slate-900 font-bold">
+              <i class="fa-solid fa-camera text-blue-600 text-sm"></i>
+              <span>ক্যামেরা ও ফটো গ্যালারি এক্সেস</span>
+            </div>
+            <p class="text-[11px] text-slate-600 leading-relaxed">
+              দোকানদাররা তাদের খাবারের ও পণ্যের ছবি সরাসরি ক্যামেরা বা গ্যালারি থেকে আপলোড করতে পারেন। এছাড়াও দোকানদার ও গ্রাহক যাতে ডিজিটাল ক্যাশ মেমোর রসিদ সরাসরি নিজেদের ফোনের গ্যালারিতে ছবি হিসেবে সেভ করতে পারেন, সে কাজে এটি ব্যবহৃত হয়।
+            </p>
+          </div>
+
+          <!-- ব্যক্তিগত প্রোফাইল তথ্য -->
+          <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-2xl space-y-1.5">
+            <div class="flex items-center gap-2 text-slate-900 font-bold">
+              <i class="fa-solid fa-user-check text-emerald-600 text-sm"></i>
+              <span>ব্যক্তিগত ও যোগাযোগের তথ্য</span>
+            </div>
+            <p class="text-[11px] text-slate-600 leading-relaxed">
+              অ্যাকাউন্ট তৈরি ও ডেলিভারি নিশ্চিত করতে আমরা আপনার পূর্ণ নাম, সঠিক ১১ ডিজিটের মোবাইল নম্বর, ডেলিভারির ঠিকানা এবং ইমেইল ঠিকানা সংগ্রহ ও সংরক্ষণ করি।
+            </p>
+          </div>
+
+          <!-- নোটিফিকেশন ও অ্যালার্ম -->
+          <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-2xl space-y-1.5">
+            <div class="flex items-center gap-2 text-slate-900 font-bold">
+              <i class="fa-solid fa-bell text-rose-500 text-sm"></i>
+              <span>পুশ নোটিফিকেশন ও অ্যালার্ম রিংটোন</span>
+            </div>
+            <p class="text-[11px] text-slate-600 leading-relaxed">
+              নতুন অর্ডার আসামাত্র দোকানদারের ফোনে তীব্র শব্দে অ্যালার্ম বাজানো এবং গ্রাহককে রাইডার আসার আপডেট তাৎক্ষণিকভাবে নোটিফিকেশনের মাধ্যমে জানাতে এটি ব্যবহৃত হয়।
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Section 2: ডেটা ডিলিট পলিসি (Bangla) -->
+      <div class="bg-white rounded-3xl p-5 sm:p-6 border-2 border-emerald-500/30 shadow-xs space-y-3">
+        <div class="flex items-center gap-2.5 border-b border-slate-100 pb-3">
+          <i class="fa-solid fa-trash-can text-emerald-600 text-lg"></i>
+          <h3 class="text-base font-black text-slate-900">২. অ্যাকাউন্ট ও ব্যক্তিগত তথ্য মুছে ফেলার নিয়ম (User Data Deletion)</h3>
+        </div>
+        <p class="text-xs text-slate-600 leading-relaxed">
+          গুগল প্লে-স্টোরের নীতিমালা অনুযায়ী যেকোনো গ্রাহক যেকোনো সময় তার অ্যাকাউন্ট এবং অ্যাপে সংরক্ষিত সমস্ত ব্যক্তিগত তথ্য (নাম, ফোন, ঠিকানা ও অর্ডার ইতিহাস) স্থায়ীভাবে মুছে ফেলার আবেদন করতে পারেন।
+        </p>
+        <div class="p-3.5 bg-emerald-50 border border-emerald-200 rounded-2xl flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-xs">
+          <div>
+            <span class="font-bold text-emerald-950 block">অ্যাকাউন্ট ডিলিট রিকোয়েস্ট পাঠানোর নিয়ম:</span>
+            <span class="text-[11px] text-emerald-700">আপনার নিবন্ধিত মোবাইল নম্বর উল্লেখ করে আমাদের ইমেইলে অনুরোধ পাঠান। ৪৮ ঘণ্টার মধ্যে সমস্ত তথ্য সার্ভার থেকে স্থায়ীভাবে মুছে ফেলা হবে।</span>
+          </div>
+          <a href="mailto:bd.doorbee@gmail.com?subject=DoorBee%20Account%20Deletion%20Request" class="px-4 py-2 bg-emerald-600 text-white rounded-xl font-bold shadow-xs hover:bg-emerald-700 transition text-center shrink-0">
+            ডিলিট রিকোয়েস্ট পাঠান
+          </a>
+        </div>
+      </div>
+
+      <!-- Section 3: যোগাযোগ (Bangla) -->
+      <div class="bg-slate-900 text-white rounded-3xl p-5 sm:p-6 space-y-2.5 shadow-md">
+        <h3 class="text-base font-black text-amber-400">৩. যোগাযোগ ও সহায়তা</h3>
+        <p class="text-xs text-slate-300 leading-relaxed">
+          গোপনীয়তা নীতি সম্পর্কে কোনো জিজ্ঞাসা বা অভিযোগ থাকলে সরাসরি আমাদের সাপোর্ট টিমের সাথে যোগাযোগ করতে পারেন:
+        </p>
+        <div class="pt-1 text-xs space-y-1 font-mono text-slate-300">
+          <p><b class="text-white">অ্যাপের নাম:</b> DoorBee (ডোরবী)</p>
+          <p><b class="text-white">অফিশিয়াল ইমেইল:</b> <a href="mailto:bd.doorbee@gmail.com" class="text-amber-400 underline">bd.doorbee@gmail.com</a></p>
+          <p><b class="text-white">ঠিকানা:</b> ঢাকা, বাংলাদেশ</p>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- ========================================================================= -->
+    <!-- 🌐 SECTION DIVIDER -->
+    <!-- ========================================================================= -->
+    <div class="relative flex py-2 items-center">
+      <div class="flex-grow border-t border-slate-300"></div>
+      <span class="flex-shrink mx-4 px-4 py-1.5 rounded-full bg-slate-900 text-amber-400 text-xs font-black uppercase tracking-widest border border-amber-500/30">
+        English Version Below (Official for Google Play)
+      </span>
+      <div class="flex-grow border-t border-slate-300"></div>
+    </div>
+
+    <!-- ========================================================================= -->
+    <!-- 🇺🇸 ২. ইংরেজি সংস্করণ (ENGLISH VERSION - GOOGLE PLAY VERIFIED) -->
+    <!-- ========================================================================= -->
+    <section id="english" class="space-y-6 pt-2 font-en">
+
+      <!-- Hero Card (English) -->
+      <div class="bg-gradient-to-r from-slate-900 to-slate-950 text-white border border-amber-500/30 rounded-3xl p-5 sm:p-6 shadow-sm space-y-2">
+        <div class="flex items-center justify-between">
+          <span class="text-[10px] font-black uppercase tracking-wider bg-amber-500 text-slate-950 px-2.5 py-0.5 rounded-md">
+            Official Legal Document
+          </span>
+          <span class="text-xs font-bold text-amber-400">English Version</span>
+        </div>
+        <h2 class="text-xl sm:text-2xl font-black text-white tracking-tight">Privacy Policy for DoorBee</h2>
+        <p class="text-xs text-slate-400 font-mono">
+          <b>Application Package:</b> <code class="text-amber-400 font-bold">com.doorbee.bd</code> • <b>Effective Date:</b> September 2026
+        </p>
+        <p class="text-xs text-slate-300 leading-relaxed pt-1">
+          DoorBee ("we", "our", or "us") operates the DoorBee mobile application (Multi-service on-demand delivery super-app covering Food, Grocery, Medicine, Raw Market, and Express Courier Parcel services). This page informs users regarding our policies with the collection, use, and disclosure of personal data when using our Service.
+        </p>
+      </div>
+
+      <!-- Section 1: Information Collection & Permissions (English) -->
+      <div class="bg-white rounded-3xl p-5 sm:p-6 border border-slate-200/80 shadow-xs space-y-4">
+        <div class="flex items-center gap-2.5 border-b border-slate-100 pb-3">
+          <i class="fa-solid fa-shield-halved text-amber-500 text-lg"></i>
+          <h3 class="text-base font-black text-slate-900">1. Information Collection and Hardware Permissions</h3>
+        </div>
+        <p class="text-xs text-slate-600 leading-relaxed">
+          For an optimal delivery experience, we require certain personally identifiable information and device hardware access permissions:
+        </p>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3 text-xs">
+          <!-- Location Card -->
+          <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-2xl space-y-1.5">
+            <div class="flex items-center gap-2 text-slate-900 font-bold">
+              <i class="fa-solid fa-location-dot text-amber-600 text-sm"></i>
+              <span>Location Data (Foreground & Background)</span>
+            </div>
+            <p class="text-[11px] text-slate-600 leading-relaxed">
+              • <b>For Customers:</b> We collect precise GPS coordinates while using the app to calculate accurate delivery distances, shipping fees, and show nearby restaurants/shops.<br>
+              • <b>For Delivery Partners (Riders):</b> We collect location data in the <b>background</b> (even when the app is closed or screen is off) to enable live real-time package tracking for customers and assign nearby dispatch orders safely.
+            </p>
+          </div>
+
+          <!-- Camera & Photos Card -->
+          <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-2xl space-y-1.5">
+            <div class="flex items-center gap-2 text-slate-900 font-bold">
+              <i class="fa-solid fa-camera text-blue-600 text-sm"></i>
+              <span>Camera & Photos Access</span>
+            </div>
+            <p class="text-[11px] text-slate-600 leading-relaxed">
+              Our app allows merchant partners to take real-time photos of food items and groceries from their camera or gallery for catalog display. It also allows saving digital cash memos and receipts into the user's local photo gallery.
+            </p>
+          </div>
+
+          <!-- Personal Info Card -->
+          <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-2xl space-y-1.5">
+            <div class="flex items-center gap-2 text-slate-900 font-bold">
+              <i class="fa-solid fa-user-check text-emerald-600 text-sm"></i>
+              <span>User Profile Information</span>
+            </div>
+            <p class="text-[11px] text-slate-600 leading-relaxed">
+              When registering, we collect your name, valid 11-digit mobile phone number, delivery addresses (Home/Work), and email address to authenticate accounts and communicate order statuses.
+            </p>
+          </div>
+
+          <!-- Notifications Card -->
+          <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-2xl space-y-1.5">
+            <div class="flex items-center gap-2 text-slate-900 font-bold">
+              <i class="fa-solid fa-bell text-rose-500 text-sm"></i>
+              <span>Push Notifications & Alarm</span>
+            </div>
+            <p class="text-[11px] text-slate-600 leading-relaxed">
+              We use notification permissions and audio alert tones to inform merchants of new incoming customer orders instantly and notify customers about rider dispatch updates.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Section 2: Third-Party Service Providers (English) -->
+      <div class="bg-white rounded-3xl p-5 sm:p-6 border border-slate-200/80 shadow-xs space-y-3">
+        <div class="flex items-center gap-2.5 border-b border-slate-100 pb-3">
+          <i class="fa-solid fa-cloud text-amber-500 text-lg"></i>
+          <h3 class="text-base font-black text-slate-900">2. Third-Party Service Providers</h3>
+        </div>
+        <p class="text-xs text-slate-600 leading-relaxed">
+          The app utilizes trusted third-party infrastructure services to ensure security, real-time database sync, and mapping:
+        </p>
+        <ul class="list-disc list-inside text-xs text-slate-600 space-y-1.5 pl-2">
+          <li><b>Google Play Services:</b> For core Android security, integrity, and app updates.</li>
+          <li><b>Firebase Realtime Database & Auth:</b> For encrypted real-time cloud data storage and customer authentication.</li>
+          <li><b>Google Maps:</b> For navigation links and routing visualization.</li>
+        </ul>
+      </div>
+
+      <!-- Section 3: Data Deletion Policy (Google Play Requirement) -->
+      <div class="bg-white rounded-3xl p-5 sm:p-6 border-2 border-emerald-500/30 shadow-xs space-y-3">
+        <div class="flex items-center gap-2.5 border-b border-slate-100 pb-3">
+          <i class="fa-solid fa-trash-can text-emerald-600 text-lg"></i>
+          <h3 class="text-base font-black text-slate-900">3. User Data Deletion & Account Erasure</h3>
+        </div>
+        <p class="text-xs text-slate-600 leading-relaxed">
+          In compliance with Google Play User Data policies, users have the right to request deletion of their account and all associated personal data (including order logs, address book, and phone numbers).
+        </p>
+        <div class="p-3.5 bg-emerald-50 border border-emerald-200 rounded-2xl flex flex-col sm:flex-row sm:items-center justify-between gap-3 text-xs">
+          <div>
+            <span class="font-bold text-emerald-950 block">Request Account/Data Deletion:</span>
+            <span class="tex
